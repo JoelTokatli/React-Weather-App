@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: 0.8 all;
+  background: url(images/bg.jfif);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+  max-height: min-content;
+  background-attachment: fixed;
+}
+
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
